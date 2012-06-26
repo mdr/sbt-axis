@@ -9,7 +9,7 @@ Configuration
 
 Put this in your `project/plugins.sbt`:
 
-    addSbtPlugin("com.github.mdr" % "sbt-axis" % "0.0.1-SNAPSHOT")
+    addSbtPlugin("com.github.mdr" % "sbt-axis" % "0.0.1")
 
 Light configuration example (in `build.sbt`):
 
